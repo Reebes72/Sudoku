@@ -1,0 +1,23 @@
+Scoring is based off of time taken to complete the puzzle, the number of hints you have used (if applicable), the use of puzzle assist, and number of correct answers.
+
+Time Bonus: 	5000 points
+
+Easy 
+Full Bonus: 	5 Minutes
+Half Bonus: 	10 Minutes
+
+Medium
+Full Bonus: 	10 Minutes
+Half Bonus 	20 Minutes
+
+Hard
+Full Bonus: 	15 Minutes
+Half Bonus: 	30 Minutes
+
+Hints
+On a successful completion of the puzzle, if you have used no hints, you will receive a 5000 point bonus.
+
+Puzzle Assist
+Using puzzle assist will dock your score by 1000 points.
+
+

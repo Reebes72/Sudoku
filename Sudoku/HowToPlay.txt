@@ -1,0 +1,25 @@
+At the beginning of each game session, a series of cells on the board will be filled, and the rest will remain blank.
+
+Filling a Cell
+
+First, click on the number below the board that you wish to use. Second, click a cell on the board that is not filled, or has been previously filled by you. Any number that was already filled at the beginning of the game session will not be able to be altered.
+
+Clearing a cell
+
+To the left of number selection is a blank button. Clicking this activates erasure mode. It operated in the same manner as when you fill a cell.
+
+Checking the Solution
+
+After you have filled the board, clicking the check solution button will cause the game to end, and determine whether your entries were correct. A window will pop-up and inform you of your result and display a score.
+
+Starting a New Game
+
+At any point in time you can start a new game easily. In the corner of the screen is a menu item that says NewPuzzle, and a drop down menu to the right of it. The difficulty of the puzzle can be selected in the drop down box. After selecting your preferred difficulty, click the NewPuzzle button and a pop-up will appear  to confirm your decision. Press OK, and a new puzzle will immediately be generated.
+
+Hints
+
+The Hint button is available on Easy and Medium difficulties. It will reveal all instances of a particular number which you have selected for entry. After you have used up all of your available hints, the button will disappear. Using hints causes a penalty to be placed on your final score for the round.
+
+Puzzle Assist
+
+The puzzle assist toggle button will highlight all the current numbers that correspond with the number you are trying to enter. Using  this option will incur a score penalty for the round.
